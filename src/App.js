@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://en.wikipedia.org/wiki/Rama#/media/File:Hanuman_meets_Sri_Rama_in_Forest.jpg"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Jai Shree Ram
         </a>
       </header>
     </div>
